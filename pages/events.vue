@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <page-title title="Events" svg="wolf.svg" class="events" svgClass="eventSVG" />
+  <page-title title="Events" svg="Bird.svg" class="events" svgClass="eventSVG" />
   <basic-layout
     big-photo-name="/events/welcome-week-1.jpeg"
     title="Welcome Week"

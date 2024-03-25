@@ -214,7 +214,7 @@ a:hover {
   padding-top: 10%;
   font-size: 4rem;
   font-family: "DomaineDisplayNarrow-RegularItalic";
-  background-color: $slight-constrast;
+  background-color: #E4DAC7;
   letter-spacing: 0.1rem;
 
   span {
@@ -229,7 +229,7 @@ a:hover {
   padding-top: 4rem;
   text-align: center;
   text-transform: uppercase;
-  background-color: $slight-constrast;
+  background-color: #E4DAC7;
   padding-bottom: 10%;
   font-family: "TurisLight";
   font-size: 2rem;
@@ -256,7 +256,7 @@ a:hover {
   height: calc(100vh - $header-height);
   padding: 120px 0;
   background-color: $background;
-  color: $under-contast;
+  color: #E4DAC7;
   margin: 0 0;
 
   img {
@@ -283,8 +283,8 @@ a:hover {
   color: $background;
 
   border-top: 50px solid $under-contast;
-  border-left: 15px solid transparent;
-  border-right: 15px solid transparent;
+  border-left: 15px solid $under-contast;
+  border-right: 15px solid $under-contast;
   // padding-bottom: 10px;
   position: relative;
 

@@ -1,21 +1,20 @@
 <script lang="ts" setup></script>
 
 <template>
-    <div class="VINTAGE">
-        <img src="~/assets/svgs/Title.svg" alt="VINTAGE" />
-        <img src="~/assets/svgs/Sword.svg" style="position: absolute; left: -39; top: -39" height="100px" alt="" />
-        <div class="trapezoid">
-            <h2 class="center">2024</h2>
-        </div>
+  <div class="VINTAGE">
+    <img src="~/assets/svgs/Title.svg" alt="VINTAGE" />
+    <!-- <img src="~/assets/svgs/Sword.svg" style="position: absolute; left: -39; top: -39" height="100px" alt="" /> -->
+    <div class="trapezoid">
+      <h2 class="center">2024</h2>
     </div>
+  </div>
 
   <p class="verse">
-    Behold, I send you forth as <span>sheep</span><br />
-    in the midst of <span>wolves:</span><br />
-    be ye therefore <span>wise</span> as serpents,<br />
-    and <span>harmless</span> as doves.
+    Thou comest to me with a sword, and with a spear,<br>
+    and with a shield: but I come to thee in the <br><span>name
+      of the Lord of hosts.</span>
   </p>
-  <p id="reference">Matthew 10:16</p>
+  <p id="reference">I SAMUEL 17:45</p>
 
   <div class="spacer" />
 

@@ -1,6 +1,30 @@
 $fontColor: #918266;
 $fontHoverColor: #E4DAC7;
 
+
+@font-face {
+  font-family: 'EBGaramond-Regular';
+  src: url(~/assets/fonts/21128866111.tff);
+}
+
+
+@font-face {
+  font-family: 'EBGaramond-Italics';
+  src: url(~/assets/fonts/23779851888.tff);
+}
+
+@font-face {
+  font-family: 'EBGaramond-Bold';
+  src: url(~/assets/fonts/23857937022.tff);
+}
+
+@font-face {
+  font-family: 'Germania-One';
+  src: url(~/assets/fonts/GermaniaOne-Regular.tff);
+}
+
+
+
 @font-face {
   font-family: 'DomaineDisplayNarrow-Regular';
   src: url(~/assets/fonts/DomaineDisplayNarrow-Regular.otf);
