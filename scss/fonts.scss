@@ -1,0 +1,45 @@
+$fontColor: #918266;
+$fontHoverColor: #E4DAC7;
+
+@font-face {
+  font-family: 'DomaineDisplayNarrow-Regular';
+  src: url(~/assets/fonts/DomaineDisplayNarrow-Regular.otf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DomaineDisplayNarrow-RegularItalic';
+  src: url(~/assets/fonts/DomaineDisplayNarrow-RegularItalic.otf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DomaineDisplayNarrow-MediumItalic';
+  src: url(~/assets/fonts/DomaineDisplayNarrow-MediumItalic.otf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DomaineDisplay';
+  src: url(~/assets/fonts/DomaineDisplay-Semibold.otf);
+}
+
+@font-face {
+  font-family: 'DomaineDisplayBold';
+  src: url(~/assets/fonts/DomaineDisplay-Bold.otf);
+}
+
+@font-face {
+  font-family: 'Turis';
+  src: url(~/assets/fonts/Turis-Regular.otf);
+}
+
+@font-face {
+  font-family: 'TurisBold';
+  src: url(~/assets/fonts/Turis-SemiBold.otf);
+}
+
+@font-face {
+  font-family: 'TurisLight';
+  src: url(~/assets/fonts/Turis-Light.otf);
+}
