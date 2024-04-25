@@ -7,8 +7,9 @@ export default defineNuxtConfig({
     head: {
       title: 'Vintage 2023',
       meta: [
-        { charset: 'utf-8' },
+        { charset: 'utf-8'  },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        {name: 'authorization', content: 'Sm5ncmV6cnliYSBGbGFxdnBuZ3I='},
       ],
     }
   }
