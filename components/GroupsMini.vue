@@ -4,19 +4,8 @@
   <page-title :title="'Groups'" svg="Sun.svg" class="groups" svgClass="groupsSVG"/>
   <basic-layout
     big-photo-name="vball.jpg"
-    title="Volleyball"
-    description="The Bruins volleyball team secured the NCCAA DII
-National Championship, defeating Arlington Baptist
-Universityz 3-1. This success marked the team’s fifth
-straight season of winning the national title. Freshmen
-Kiersten and Katherine Hoopes and senior Emma Riddle
-earned 1st team All-Region honors. The Bruins women
-rallied their playing spirit from the theme “Keep Looking
-Up,” taken from Colossians 3. Although committed to
-developing resilience and competitiveness, the team also
-sought to focus on Christ. Reflecting on the real purpose
-of the team, Coach Vickie Denny stated, “Win or lose, we
-want to show Christ to those we come in contact with."
+    title="Academic Teams"
+    description="Academic teams in robotics, biology and computer programming develop innovative skills and provide valuable competition and career-focused activities outside the classroom. These programs provide students the unique opportunity to work with peers in their specific areas of interest. The team members’ collaboration on year-long projects prepares students to participate in state and nation-wide events. By stimulating teams intellectually and relationally, these challenges develop competency in academics and leadership. "
     button-page="groups"
     button-text="All Groups"
     is-mini

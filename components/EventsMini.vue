@@ -3,17 +3,9 @@
 <template>
   <page-title title="Events" svg="Bird.svg" class="events" svgClass="eventSVG" />
   <basic-layout
-    big-photo-name="/events/welcome-week-1.jpeg"
+    big-photo-name="/events/welcome.jpg"
     title="Welcome Week"
-    description="Welcome Week introduces incoming freshmen as well as
-returning students to University life. The 2022-23 welcome
-theme—OWN IT—challenged students to accept personal
-responsibility for the academic year and their future. The
-week sponsors unique activities, including “meet and
-greet” for majors, student orientation, and international
-student orientation to acclimate students to their programs,
-faculty, and peers. From check-in to opening exercises,
-Welcome Week equips students for a successful year."
+    description="Welcome Week introduced the Class of 2027, BJU’s 100th graduating class, to campus life. With wide eyes and smiles, many in the freshman class began the college experience by moving into the residence halls. The Welcome Week theme—OWN IT—encouraged students to accept personal responsibility for their studies, personal relationships, and spiritual growth. The week sponsored “meet and greet” sessions for academic majors, orientation for new students, and special sessions for international students. Opening exercises and evangelistic meetings established the foundation for a successful year. "
     button-page="events"
     button-text="All Events"
     big-photo-right

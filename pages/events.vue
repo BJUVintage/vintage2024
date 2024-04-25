@@ -2,202 +2,43 @@
 
 <template>
   <page-title title="Events" svg="Bird.svg" class="events" svgClass="eventSVG" />
-  <basic-layout
-    big-photo-name="/events/welcome-week-1.jpeg"
-    title="Welcome Week"
-    description="Welcome Week introduces incoming freshmen as well as
-returning students to University life. The 2022-23 welcome
-theme—OWN IT—challenged students to accept personal
-responsibility for the academic year and their future. The
-week sponsors unique activities, including “meet and
-greet” for majors, student orientation, and international
-student orientation to acclimate students to their programs,
-faculty, and peers. From check-in to opening exercises,
-Welcome Week equips students for a successful year."
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/rush-1.jpeg"
-    title="Society Rush"
-    description="On September 9, freshmen poured onto the lower
-athletic fields, met by enthusiastic society members—
-some decked out in Western attire, others dotted
-with face paint. The annual Society Rush Party had
-commenced. At each “rush,” societies compete for
-new members through food, games and cheers.
-The next night, freshmen officially choose their
-society at Induction. Implementing their unique
-traditions, societies welcome new members, and
-freshmen begin developing lasting friendships.
-Societies constitute an integral part of campus life
-through providing students with opportunities for
-leadership, community and spiritual growth."
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/homecoming-1.jpeg"
-    title="Homecoming"
-    description="During the annual Homecoming, Bob Jones University
-welcomes returning alumni who are a special part
-of our dynamic community. Each year, Homecoming
-sponsors reunions and grants alumni awards to
-celebrate the faithfulness and achievements of the
-University family. Through their graduates, BJU
-serves present and future generations of students.
-Homecoming weekend inspires students to realize the
-significance of graduates and to anticipate their own
-contributions to a future alumni community."
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/u-day-1.jpeg"
-    title="U Day"
-    description="U.Day celebrates creativity, energy and unity, accompanied by lively music and savory food.
-Held on the last day of Homecoming, this outdoor fair builds relationships between Bob Jones
-University and the greater community. Students, faculty, and staff come together to display BJU’s
-innovation, through interactive booths and an art market. U. Day, one of the University’s largest
-public events, seeks to welcome the Greenville community and show them the love of Christ."
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/turkey-bowl-1.jpeg"
-    title="Turkey Bowl"
-    description="The 2022 Turkey Bowl featured a match between the Sigma
-Alpha Chi Spartans and the Beta Gamma Delta Patriots for
-the second consecutive year. The rivals displayed their soccer
-skill and sportsmanship in a hard-fought game, with the
-Patriots securing the championship 2-1. The Inter-Society
-Council (ISC) hosted a concession stand for spectators
-and organized different events for the evening, including
-dropping the game ball with drones, halftime activities,
-and a fall festival for fans to enjoy after the match."
-    little-photo-name="/events/turkey-bowl-2.jpeg"
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/fall-festival-1.jpeg"
-    title="Fall Festival"
-    description="Celebrated for the third year, Harvest Festival featured a
-campus treat trail and unique costumes. Exhibiting creativity
-and spontaneity, students flooded various stations to
-collect candy or take selfies with faculty members, who
-also decked out for the occasion. Impersonating characters
-from Colonel Mustard to Mary Poppins, individuals chose
-costumes to reflect their interests and passions. The
-event, designed to deepen faculty-student relationships,
-provided an outlet for both ingenuity and leisure."
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/christmas-1.jpeg"
-    title="Christmas Celebration"
-    description="Bob Jones University celebrated its 33rd year of staging a
-Christmas Lighting ceremony, enhanced this year with unique
-seasonal festivities. The Christmas Village provided free family
-activities such as cookie decorating, storytelling, games and
-crafts. The University sponsored food trucks and s’mores
-stations for those seeking tasty treats. The Alumni Christmas
-Market highlighted a local collection of handcrafted jewelry,
-baked goods and paintings. As part of the lighting ceremony,
-the Bob Jones University Singers, directed by Dr. David Parker,
-led the caroling. Across front campus, hundreds of flickering
-candles signified the event’s popularity. Artificial snow drifted
-from above the choir, as “Let it Snow” echoed through the
-night. Following one short, suspenseful moment of silence, a
-magical array of lights illuminated the campus. Orderly, white
-bulbs outlined Rodeheaver Auditorium, while dangling purple
-and blue lights christened surrounding trees and bushes."
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/fac-forum-1.jpg"
-    title="Faculty Forums"
-    description="During the fall semester, Bob Jones University held four forums focusing on human
-dignity. Faculty forums present biblically informed perspectives on an array of current
-social issues. As subject matter experts, the university faculty offer unique insights
-into the forum topics and are sometimes accompanied by guest topic specialists. The
-speakers share their expertise on key issues and moderate the discussion, allowing
-attendees to consider various viewpoints. After the main presentation, participants
-field questions from members of the audience. The unstructured formatting of
-these forums allows for biblically informed academic responses to relevant topics."
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/evangelist-sermon-1.jpg"
-    title="Evangelistic Services"
-    description="Each year, Bob Jones University begins both fall and
-spring semesters with evangelistic services. Required for
-students and open to the public, these meetings emphasize
-the centrality of the Gospel to the University’s mission.
-During the fall semester, Dr. Pettit challenged students
-to understand God’s grace in salvation and, in response
-to that grace, to seek a biblical transformation of their
-minds. Tim Chapman, alumnus and missionary to Peru,
-preached the spring evangelistic services. His sermons
-emphasized forgiveness through and satisfaction in Christ."
-    little-photo-name="/events/evangelist-sermon-2.jpg"
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/spring-theme-1.jpg"
-    title="Spring Chapel Theme"
-    description="The spring chapel theme “Truth and Love”
-focused on 1 John 4. Analyzing John’s
-unique circular writing style and applying
-the apostle’s doctrine, Dr. Pettit challenged
-students to discover the core meaning of
-mature Christianity. The theme emphasized
-reliance on love to overcoming fear and
-commitment to truth as the path to imitating
-Christ. In contrast to a world that denies
-truth and seeks to redefine love, this highly
-relevant topic addressed the balance of
-both virtues, each vital to spiritual maturity."
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/bible-conf-1.jpg"
-    title="Bible Conference"
-    description="The 2023 Bible Conference centered on the theme
-of Chesed, God’s steadfast love. From Tuesday
-night through Friday night, students, faculty and
-visitors attended services. The event provided the
-University family an opportunity to refocus on God’s
-character as well as a respite from academics.
-This year, BJU donated the conference’s offering to Harvest
-House, the sole foster ministry on the island of Guam.
-Harvest House provides physical, social, mental, and
-spiritual support to both foster children and their families.
-During the COVID-19 pandemic, the number of foster
-children on the island doubled, creating the necessity of
-expanding Harvest House with a second facility. To help
-meet this need, the University set a target amount of
-$150,000 to “Build Hope for Harvest” through numerous
-student-initiated fundraisers and generous donations."
-    little-photo-name="/events/bible-conf-2.jpg"
-  ></basic-layout>
-  <!-- <basic-layout
-    big-photo-name="/events/ferd-singers-1.jpg"
-    title="Jason Max Ferdinand Singers"
-    description="Some random text about how rush this year was the best thing ever and this is really just filler text I need something here so it looks more complete."
-    little-photo-name="/events/ferd-singers-2.jpg"
-    big-photo-right
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/rich-iii-1.jpg"
-    title="Richard III"
-    description="Some random text about how rush this year was the best thing ever and this is really just filler text I need something here so it looks more complete."
-    little-photo-name="/events/rich-iii-2.jpg"
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/beauty-and-beast-1.jpg"
-    title="Beauty and the Beast"
-    description="Some random text about how rush this year was the best thing ever and this is really just filler text I need something here so it looks more complete."
-    little-photo-name="/events/beauty-and-beast-2.jpg"
-    big-photo-right
-photo-2-name="pepe_lisa.jpg"
-  ></basic-layout>
-  <basic-layout
-    big-photo-name="/events/canadian-brass-1.jpg"
-    title="Canadian Brass"
-    description="Some random text about how rush this year was the best thing ever and this is really just filler text I need something here so it looks more complete."
-    little-photo-name="/events/canadian-brass-2.jpg"
-  ></basic-layout> -->
+  <basic-layout big-photo-name="/events/welcome.jpg" title="Welcome Week"
+    description="Welcome Week introduced the Class of 2027, BJU’s 100th graduating class, to campus life. With wide eyes and smiles, many in the freshman class began the college experience by moving into the residence halls. The Welcome Week theme—OWN IT—encouraged students to accept personal responsibility for their studies, personal relationships, and spiritual growth. The week sponsored “meet and greet” sessions for academic majors, orientation for new students, and special sessions for international students. Opening exercises and evangelistic meetings established the foundation for a successful year. "></basic-layout>
+
+  <basic-layout big-photo-name="/events/rush.jpg" title="Society Rush & Induction"
+    description="On September 8, the “Biggest Block Party of the Year” ushered in a night in which societies climaxed their competition for the attention and affection of the new freshman class. With the enticement of delicious food, rowdy games, and decorated tents, society members aided freshmen in their chose of a society. The following night, freshmen officially chose their society at Induction. Welcoming newcomers into society, current members introduced their freshman to the distinctive traditions of their new society. Since societies constitute an integral part of campus life, Rush and Induction activities marked the beginning of multiple opportunities to build friendships, develop leadership skills, and mature together in Christ."
+    big-photo-right></basic-layout>
+
+  <basic-layout big-photo-name="/events/chapel.jpg" title="Fall Chapel Theme"
+    description="Throughout fall chapels Dr. Benson challenged the student body with the theme “Nehemiah: Life on Mission.” As he covered the book of Nehemiah, students learned how God greatly used a man who obeyed God no matter the overwhelming trials. With a focus on Nehemiah’s deep personal walk with God and his response to every obstacle with prayer and worship, Dr. Benson imparted practical advice for problem-solving as well as wisdom for living according to God’s plan no matter the situation. As students prepare to minister in a spiritually darkening world, this chapel theme inspired them to be shining lights for His glory. "
+    little-photo-name="/events/evangelist-sermon-2.jpg"></basic-layout>
+  <basic-layout big-photo-name="/events/udays.jpg" title="U Day"
+    description="Accompanied by lively music and delicious food, U.Day celebrates the creativity, energy, and unity of the BJU family. Hosted on the last day of Homecoming weekend, this outdoor fair builds relationships between the University and the greater Greenville community. Students, faculty, and staff unite to display innovation through interactive booths and an artist market. U.Day, one of BJU’s largest public events, opens its arms to the Greenville community and shares with them the love of Christ. "
+    big-photo-right></basic-layout>
+
+  <basic-layout big-photo-name="/events/hoco.jpg" title="Homecoming"
+    description="During its annual Homecoming, Bob Jones University celebrated its 30,000 living alumni. This weekend encouraged graduates, an integral part of the University family, to greet old friends, make new ones, and create lasting memories. Each year, Homecoming sponsors class reunions and grants recognition awards in celebration of the faithfulness of alumni. By highlighting the achievements of graduates, Homecoming weekend inspires students to recognize the significance of their current academic endeavors, anticipate using their God-given gifts in future vocation, and await with enthusiasm their joining an expanding alumni community."></basic-layout>
+
+
+  <basic-layout big-photo-name="/events/turkeybowl.jpg" title="Turkey Bowl"
+    description="The 2023 Turkey Bowl featured an intramural soccer match between the Sigma Alpha Chi Spartans and a combined team from the Chi Alpha Phi Cavaliers and the Pi Kappa Sigma Cobras. The hard-fought game demonstrated soccer skill and sportsmanship with the Spartans winning the championship 3-0. Before the Turkey Bowl commenced, the Nu Alpha Phi Flames competed against the Theta Sigma Chi Colts in another soccer match called the Turkey Cup, with the Colts securing the victory. New this year, the Turkey Platter offered food options for purchase. Spectators at the Turkey Bowl also enjoyed the concession stand’s offerings and events hosted by the Inter-Society Council (ISC), including delivering the game ball with drones, halftime activities, and a fall festival. "
+    little-photo-name="/events/turkey-bowl-2.jpeg" big-photo-right></basic-layout>
+
+  <basic-layout big-photo-name="/events/harvest.jpg" title="Fall Festival" description="The fourth annual Harvest Festival features a “treat trail” across campus along with unique costumes of students, faculty, and staff. Students flooded various stations to collect candy or take selfies with faculty members impersonating characters from Winnie the Pooh to Gandalf. This event, designed to deepen faculty-student relationships, provided an outlet for humor and ingenuity. 
+    Fall Festival, which followed the annual Turkey Bowl, fostered school spirit and unity as students engaged in various activities. The faculty chili cook-off, with the winner determined after tasting samples, kicked off the event. While some students enjoyed popcorn, cupcakes, and apple cider, others raced through an inflatable obstacle course. Despite cold temperatures, the night offered students a welcomed pause from their students as well as a memorable climax to the 2023 Turkey Bowl evening. 
+    "></basic-layout>
+
+  <basic-layout big-photo-name="/events/christmas.jpg" title="Christmas Celebration"
+    description="In December, BJU celebrated its 34th annual Christmas lighting ceremony. A Christmas Village provided free family activities, including cookie decorating, storytelling, games, and crafts. The University sponsored food trucks and s’mores stations, and the Alumni Christmas Market highlighted a local collection of handcrafted jewelry, baked goods, and art. Caroling, hosted by the University Singers, was the central event of the evening. Hundreds of flickering candles signified the event’s popularity. Then, a magical array of lights illuminated campus—white bulbs outlining Rodeheaver Auditorium and purple and blue lights christening the surrounding trees and bushes. The evening of festivities concluded with “Carols & Classics,” a holiday program featuring the Symphonic Wind Band, Handbell Choir, University Chorale, and Concert Choir."
+    big-photo-right></basic-layout>
+
+    <basic-layout big-photo-name="/events/bibconf.jpg" title="Bible Conference"
+    description="The 2024 Bible Conference theme, “Look on the Fields: Cultivating a Heart for the Harvest,” emphasized evangelism, the natural result of believers’ changing their perspective from temporal to eternal. This mindset requires loving God and then loving others. Dr. Benson opened the conference on Tuesday, February 13, and five additional speakers spoke from the Word of God to students, faculty, and visitors throughout the rest of the week. The speakers included Jim Tillotson, Matt Morrel, Brent Belford, Dave Doran, and Billy Gotcher. This year BJU partnered with Dare for More, a ministry seeking to create an arm of prevention and intervention for women affected by trafficking, abuse, and poverty in Guatemala. The University set a target of $150,000. Student-initiated fundraisers and generous donations provided funds for Dare for More to purchase two vehicles to transport women and children to safe houses as well as carry supplies to training centers. These centers instruct women in trade so that they can become self-supporting. By sitting under the preaching of God’s Word and by raising funds for a ministry dedicated to evangelism, those attending Bible Conference end the week refreshed in soul and spirit."
+    little-photo-name="/events/bible-conf-2.jpg" ></basic-layout>
+  <basic-layout big-photo-name="/events/vintage.jpg" title="90 Years of Vintage"
+    description="This year, the Vintage celebrates its 90th publication. Since 1934, this annual yearbook has provided a record of University students and personnel, as well as key events that take place in the academic year. Though the production has changed since the organization’s inception, each book remains a timeless repository of memories. No longer do writer compose on paper or typewriters, and no longer do designers cut photographs and place them in the books by hand. However, each book is a special keepsake for members of the University family. Yearbooks, by preserving a chapter in the University’s history, allow students, faculty, and staff to recall cherished memories. Additionally, each book presents a spiritual theme to edify its readers and is dedicated to one or more faculty members, staff members, or administrators who have faithfully served the University. Flipping through a yearbook’s pages transports the reader back to a time of camaraderie as well as academic and spiritual growth. " big-photo-right></basic-layout>
+
+
 </template>
 
 <script>
