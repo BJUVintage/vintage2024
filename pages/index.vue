@@ -20,7 +20,6 @@
 
   <events-mini />
   <groups-mini />
-  <search-mini />
 </template>
 
 <script>
