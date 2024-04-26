@@ -23,11 +23,7 @@
 </template>
 
 <script>
-import EventsMini from "~~/components/EventsMini.vue";
 
-export default {
-  components: { EventsMini },
-};
 </script>
 
 <style lang="scss">
