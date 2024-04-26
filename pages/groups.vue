@@ -41,7 +41,6 @@
   <basic-layout big-photo-name="/groups/choir.jpg" title="Choral Groups"
     description="Five choral groups offer students on every level of musicianship an opportunity to showcase talent for God’s glory. This year, the 100-voice University Singers initiated the concert season with “God’s Great Mysteries.” In November, the Concert Choir presented “All of Our Tomorrows,” featuring Requiem, a work by Heather Sorenson and commissioned in honor of those who lost their lives during the Covid-19 pandemic. Then, the Lyric Choir celebrated Christmas with their program, “Sing Noel,” a selection of holiday favorites. Finally, the University Chorale performed “From Darkness to Light.” In addition to concerts, choral group minister in local churches throughout the year to encourage congregations and praise the Creator. "></basic-layout>
 
-
   <basic-layout big-photo-name="/groups/slc.jpg" title="Student Leadership Council"
     description="The Student Leadership Council (SLC), eleven officers nominated by their peers, plans and promotes student body events. SLC members also serve as liaisons between students and the administration. Two main events hosted by the SLC, Spirit Week and Ignite, create unity through recreational activities and praise services. In addition to sponsoring events, the SLC chooses the academic year’s spiritual theme. The 2023-24 theme was “By My Spirit,” a study of Zechariah 4:6."
     little-photo-name="/groups/turkey-bowl-2.jpeg" big-photo-right></basic-layout>
