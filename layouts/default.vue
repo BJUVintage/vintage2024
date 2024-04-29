@@ -12,6 +12,8 @@
         <div class="navbar__links">
           <a class="nav-link" href="/events">Events</a>
           <a class="nav-link" href="/groups">Groups</a>
+          <a class="nav-link" href="/societies">Societies</a>
+
         </div>
 
 
@@ -34,7 +36,7 @@
         <h3>PREVIOUS YEARS</h3>
         <table>
           <tr>
-            <td><a href="http://www.bjuvintage.com/2023/index.html">2023</a></td>
+            <td><a href="http://www.bjuvintage.com/2023/">2023</a></td>
             <td><a href="http://www.bjuvintage.com/2022/index.html">2022</a></td>
             <td><a href="http://www.bjuvintage.com/2021/index.html">2021</a></td>
             <td><a href="http://www.bjuvintage.com/2020/index.html">2020</a></td>

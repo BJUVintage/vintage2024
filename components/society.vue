@@ -1,13 +1,14 @@
 <script lang="ts" setup></script>
 
 <template>
-    <li>
-        <ul>
-            <li>{{ name }}</li>
-            <li>{{ verse }}</li>
-            <li>{{ motorolla }}</li>
-        </ul>
-    </li>
+   <h2 lc>{{ name }}</h2>
+            
+           <p class="smaller">
+            {{ verse }}<br>
+            {{ motorolla }}
+           </p> 
+           <br>
+      
 </template>
 
 <script>
@@ -24,5 +25,14 @@ export default {
 </script>
 
 <style lang="scss">
+h2 {
+    color: #5A493D;
+    font-size: larger;
+}
+
+.smaller {
+    font-size: medium;
+}
+
 @import "~/scss/styles.scss", "~/scss/fonts.scss";
 </style>
