@@ -2,7 +2,7 @@
     <div class="section-title">
         <h1>{{ title }}</h1>
         <div class="svg-container">
-            <img :src="`/_nuxt/assets/svgs/${svg}`" alt="" :class="svgClass">
+            <img :src="`./_nuxt/${svg}`" alt="" :class="svgClass">
         </div>
     </div>
 </template>

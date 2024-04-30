@@ -29,14 +29,14 @@ export default {
   data() {
     return {
       cornerImages: [
-        "_nuxt/assets/svgs/Icon-1.svg",
-        "_nuxt/assets/svgs/Icon-2.svg",
-        "_nuxt/assets/svgs/Icon-3.svg",
-        "_nuxt/assets/svgs/Icon-4.svg",
-        "_nuxt/assets/svgs/Icon-5.svg",
-        "_nuxt/assets/svgs/Icon-6.svg",
-        "_nuxt/assets/svgs/Icon-7.svg",
-        "_nuxt/assets/svgs/Icon-8.svg",
+        "./_nuxt/Icon-1.svg",
+        "./_nuxt/Icon-2.svg",
+        "./_nuxt/Icon-3.svg",
+        "./_nuxt/Icon-4.svg",
+        "./_nuxt/Icon-5.svg",
+        "./_nuxt/Icon-6.svg",
+        "./_nuxt/Icon-7.svg",
+        "./_nuxt/Icon-8.svg",
       ],
 
       topLeftIndex: 0,
@@ -48,49 +48,49 @@ export default {
           verse: "Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts.",
           reference: "I SAMUEL 17:45",
           name: "YAHWEH-SABOATH",
-          img: "_nuxt/assets/svgs/Icon-1.svg",
+          img: "./_nuxt/Icon-1.svg",
 
         },
         {
           verse: "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
           reference: "PSALM 90:2",
           name: "EL-OLAM",
-          img: "_nuxt/assets/svgs/Icon-2.svg",
+          img: "./_nuxt/Icon-2.svg",
 
         },
         {
           verse: "And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith.",
           reference: "JUDGES 9:46",
           name: "EL-BERITH",
-          img: "_nuxt/assets/svgs/Icon-3.svg",
+          img: "./_nuxt/Icon-3.svg",
 
         },
         {
           verse: "Then Gideon built an altar there unto the Lord, and called it Jehovah-shalom: unto this day it is yet in Ophrah of the Abiezrites.",
           reference: "JUDGES 6:24",
           name: "YAHWEH-SHALOM",
-          img: "_nuxt/assets/svgs/Icon-4.svg",
+          img: "./_nuxt/Icon-4.svg",
 
         },
         {
           verse: "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the Lord it shall be seen.",
           reference: "GENESIS 22:14",
           name: "JEHOVAH-JIREH",
-          img: "_nuxt/assets/svgs/Icon-5.svg",
+          img: "./_nuxt/Icon-5.svg",
 
         },
         {
           verse: "The Lord is my shepherd; I shall not want.",
           reference: "PSALM 23:1",
           name: "YAHWEH-ROHI",
-          img: "_nuxt/assets/svgs/Icon-6.svg",
+          img: "./_nuxt/Icon-6.svg",
 
         },
         {
           verse: "And she called the name of the Lord that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?",
           reference: "GENESIS 16:3",
           name: "EL-ROI",
-          img: "_nuxt/assets/svgs/Icon-7.svg",
+          img: "./_nuxt/Icon-7.svg",
 
         },
 

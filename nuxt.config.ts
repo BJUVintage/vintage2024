@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   target: 'static',
+  generate: "static",
   app: {
     head: {
       title: 'Vintage 2024',

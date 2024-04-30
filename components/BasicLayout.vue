@@ -19,7 +19,7 @@
 
 
       <div class="img-container" v-if="bigPhotoName">
-        <img :src="`/_nuxt/assets/photos/${bigPhotoName}`" />
+        <img :src="`./_nuxt/${bigPhotoName}`" />
       </div>
     </div>
 
